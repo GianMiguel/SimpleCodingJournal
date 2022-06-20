@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpleCodingJournal/static/css/main.aa92d491.css",
+    "main.js": "/SimpleCodingJournal/static/js/main.25b0bc43.js",
+    "static/js/787.ef0d5958.chunk.js": "/SimpleCodingJournal/static/js/787.ef0d5958.chunk.js",
+    "index.html": "/SimpleCodingJournal/index.html",
+    "main.aa92d491.css.map": "/SimpleCodingJournal/static/css/main.aa92d491.css.map",
+    "main.25b0bc43.js.map": "/SimpleCodingJournal/static/js/main.25b0bc43.js.map",
+    "787.ef0d5958.chunk.js.map": "/SimpleCodingJournal/static/js/787.ef0d5958.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa92d491.css",
+    "static/js/main.25b0bc43.js"
+  ]
+}
